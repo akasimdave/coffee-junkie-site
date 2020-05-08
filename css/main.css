@@ -8,13 +8,6 @@ orange #F15025*/
 
 /*whitesmoke*/
 
-@font-face {
-    font-family: 'Indie  Flower';
-    src: url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
-    font-weight: normal;
-    font-style: normal;
-}
-
 body{
 	font-family: 'Indie Flower', cursive;
 }
